@@ -5,17 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamgupta7" alt="shivamgupta7" /></a> </p>
 
-- 🔭 I’m currently working on **Rasa Chatbot**
+- 🔭 I’m currently working on **Rasa Chatbot, App Notification, Spark, Data Engineer Products, ETL, Machine learning**
 
-- 🌱 I’m currently learning **Rasa, Machine learning**
+- 🌱 I’m currently learning **App Notification, Rising Wave**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivamgupta7](https://github.com/shivamgupta7)
+
+- 🛢 **MySQL, Postgres, RisingWave, Scylla, Elasticsearch**
 
 - 💬 Ask me about **Data Engineering and Data Science**
 
 - 📫 How to reach me **shivamg.cr7@gmail.com**
 
-- ⚡ Fun fact **I think I am funny as well as serious while doing my work.**
+- ⚡ Fun fact **I think I am funny and serious while doing my work.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
